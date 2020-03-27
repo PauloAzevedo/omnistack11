@@ -29,6 +29,5 @@
     "babel-preset-expo": "~8.0.0",
     "@babel/core": "^7.0.0"
   },
-  "private": true,
-  "mem": ">=4.0.0"
+  "private": true
 }
